@@ -7,7 +7,7 @@ Status: Proposed; implementation awaiting review.
 
 Add two native research/demo features: empirical initiating-line N-1 vulnerability and a fair live comparison of Do-Nothing, PPO No-GCN, and PPO Predictive-GCN on one selected scenario. Preserve all existing routes, topology playback, presets, simulation/recovery behavior, API contracts, models, datasets, and validated results. No training, dataset generation, large sweeps, background experiments, or replacement of existing panels.
 
-The active repository is `/Users/ganeshreddy/Desktop/GridResiliance`, renamed from the old workspace. HEAD is `64780a4`; existing user report files are unrelated and must be left untouched.
+The active repository is `GridResilience`. HEAD is `64780a4`; existing user report files are unrelated and must be left untouched.
 
 ## Inspection findings
 

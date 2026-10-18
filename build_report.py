@@ -7,7 +7,7 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = Path('/Users/ganeshreddy/Desktop/untitled folder 2')
+ROOT = Path(__file__).resolve().parent
 ASSETS = ROOT / 'report_assets'
 OUT = ROOT / 'GridResilience_Project_Report.docx'
 
